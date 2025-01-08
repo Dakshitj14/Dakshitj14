@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DAKSHIT JHA</h1>
-<h3 align="center">A passionate full stack developer from Bharat 
+<h3 align="center">A passionate full-stack developer from Bharat 
   <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="30" height="20" />
 </h3>
 
