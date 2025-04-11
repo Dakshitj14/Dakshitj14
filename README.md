@@ -18,11 +18,13 @@
 <h2>🚀 Featured Projects</h2>
 
 <a href="https://github.com/Dakshitj14/Tangle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dakshitj14&repo=Tangle&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dakshitj14&repo=Tangle&theme=radical" />
 </a>
 <a href="https://github.com/Dakshitj14/WrapChat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dakshitj14&repo=WrapChat&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dakshitj14&repo=WrapChat&theme=radical" />
 </a>
+
+
 
 <!-- Skills Section with Animations -->
 <h2>🛠️ Skills & Technologies</h2>
