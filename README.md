@@ -9,7 +9,6 @@
 <!-- About Me Section -->
 <h2>💫 About Me</h2>
 
-- 🔭 I'm currently working on **Tangle** and **WrapChat**
 - 🌱 I'm learning **Next.js and TypeScript**
 - 👯 I'm looking to collaborate on **innovative web projects**
 - 💬 Ask me about **MERN stack, full-stack development, and web design**
